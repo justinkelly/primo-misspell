@@ -34,16 +34,16 @@ close(OUTPUT);
 #################################################
 #Merge the contents of the custom misspell file #
 #################################################
-open (ORIG, "custom_misspell.txt");
-open (OUTPUT, '>',"$primo_version/misspell_eng.txt");
+open (CUSTOM, "custom_misspell.txt");
+open (OUTPUT_CUSTOM, '>>',"$primo_version/misspell_eng.txt");
 
-while (<ORIG>) {
+while (<CUSTOM>) {
 	chomp;
-	print OUTPUT "$_\n";
+	print OUTPUT_CUSTOM "$_\n";
 }
 
-close(ORIG);
-close(OUTPUT);
+close(CUSTOM);
+close(OUTPUT_CUSTOM);
 
 
 ##############################################################
