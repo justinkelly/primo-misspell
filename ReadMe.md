@@ -2,7 +2,18 @@ Extended misspellings files for ExLibris Primo
 =========
 ### What
 
-This extendes the default Primo misspelling file and adds all the misspellings listed in this Wikipead page: http://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines
+This extendes the default Primo misspelling file, adds all the misspellings listed in this Wikipead page: http://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines
+and provides a way to add your own custom misspellings
+
+### Why 
+
+Primo comes with only 130 misspellings, by merging in the Wikipedia source this brings it to over 4,000
+and by combining your own misspellings file you can customise this as much as you want
+
+Here is a screenshot of it in action
+![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
+
+The yotube=>youtube comes from the wikipedia list, this is anexample of a usefull misspelling that ExLibris are unlikely to include
 
 ### How to run
     ./merge_primo_misspell.pl
@@ -14,15 +25,6 @@ This will now convert the contents of the wikipedia_misspell.txt into Primo miss
 
 Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/
 
-### Why 
-
-Primo comes with only 130 misspellings, by merging in the Wikipedia source this brings it to over 4,000
-and by combining your own misspellings file you can customise this as much as you want
-
-Here is a screenshot of it in action
-![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
-
-The yotube=>youtube comes from the wikipedia list, this is anexample of a usefull misspelling that ExLibris are unlikely to include
 
 ### Extending
 
