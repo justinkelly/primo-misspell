@@ -2,7 +2,7 @@ Extended misspellings files for ExLibris Primo
 =========
 ### What
 
-This extendes the default Primo misspelling file and adds all the misspellings listed in this Wikipead page: http://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines)
+This extendes the default Primo misspelling file and adds all the misspellings listed in this Wikipead page: http://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines
 
 ### How to run
     ./merge_primo_misspell.pl
@@ -22,3 +22,17 @@ copy the current primo misspelling file (located at: ng/jaguar/home/profile/anal
 Add/Edit the wikipedia_misspell.txt file if you wish
 
 Then run the ./merge_primo_misspell.pl and upload the new file
+
+
+### Adding new misspellings
+
+You can add new misspellings into the wikipedia_misspell.txt file in the Wikipedia format - such as
+
+    abondoned->abandoned
+    abondoning->abandoning
+    abondons->abandons
+    aborigene->aborigine
+    accesories->accessories
+
+
+where the incorrect spelling is the first word followed by a -> then the corret spelling
