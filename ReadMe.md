@@ -20,7 +20,7 @@ Primo comes with only 130 misspellings, by merging in the Wikipedia source this 
 and by combining your own misspellings file you can customise this as much as you want
 
 Here is a screenshot of it in action
-![Primo Yotube misspelling example]{http://i.minus.com/ibf7h8VFi2cDkM.png}
+![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
 
 The yotube=>youtube comes from the wikipedia list, this is anexample of a usefull misspelling that ExLibris are unlikely to include
 
