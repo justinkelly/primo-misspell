@@ -15,17 +15,6 @@ Here is a screenshot of it in action
 
 The yotube=>youtube comes from the wikipedia list, this is an example of a useful misspelling that ExLibris are unlikely to include
 
-### How to run
-    ./merge_primo_misspell.pl
-
-You will then be asked for which version of Primo you are using,  Choose one that corresponds to an available sub-folder
-ie. 3.1.2
-
-This will now convert the contents of the wikipedia_misspell.txt into Primo misspelling file formatting and merge it with the default Primo eng_misspell.txt file (located in the version sub-folder) and then sort this
-
-Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/
-
-
 ### Adding new misspellings
 
 You can add new misspellings into the custom_misspell.txt file in the Primo format - such as
@@ -43,6 +32,15 @@ I've added a sample into the custom_misspell.txt for a common misspelling of our
 
     swineburne swinburne
 
+### How to run
+    ./merge_primo_misspell.pl
+
+You will then be asked for which version of Primo you are using,  Choose one that corresponds to an available sub-folder
+ie. 3.1.2
+
+This will now convert the contents of the wikipedia_misspell.txt into Primo misspelling file formatting and merge it with the default Primo eng_misspell.txt file (located in the version sub-folder) and then sort this
+
+Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/
 
 ### Extending to other versions of Primo
 
