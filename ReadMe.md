@@ -12,7 +12,7 @@ ie. 3.1.2
 
 This will now convert the contents of the wikipedia_misspell.txt into Primo misspelling file formatting and merge it with the default Primo eng_misspell.txt file (located in the version sub-folder) and then sort this
 
-Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/misspell_eng
+Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/
 
 ### Extending
 
