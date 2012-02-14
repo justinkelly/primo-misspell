@@ -7,13 +7,13 @@ and provides a way to add your own custom misspellings
 
 ### Why 
 
-Primo comes with only 130 misspellings, by merging in the Wikipedia source this brings it to over 4,000
+Primo comes with only 130 misspellings and if you review your primo search queries logs you'll see a lot of common misspellings that aren't covered by Primo.  By merging in the Wikipedia source this brings it to over **4,000**
 and by combining your own misspellings file you can customise this as much as you want
 
 Here is a screenshot of it in action
 ![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
 
-The yotube=>youtube comes from the wikipedia list, this is an example of a usefull misspelling that ExLibris are unlikely to include
+The yotube=>youtube comes from the wikipedia list, this is an example of a useful misspelling that ExLibris are unlikely to include
 
 ### How to run
     ./merge_primo_misspell.pl
