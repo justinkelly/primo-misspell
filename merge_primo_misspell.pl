@@ -30,6 +30,22 @@ while (<ORIG>) {
 close(ORIG);
 close(OUTPUT);
 
+
+#################################################
+#Merge the contents of the custom misspell file #
+#################################################
+open (ORIG, "custom_misspell.txt");
+open (OUTPUT, '>',"$primo_version/misspell_eng.txt");
+
+while (<ORIG>) {
+	chomp;
+	print OUTPUT "$_\n";
+}
+
+close(ORIG);
+close(OUTPUT);
+
+
 ##############################################################
 # Clean up wiki.txt spellings and merge with orig primo file #
 ##############################################################
