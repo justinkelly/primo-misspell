@@ -13,7 +13,7 @@ and by combining your own misspellings file you can customise this as much as yo
 Here is a screenshot of it in action
 ![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
 
-The yotube=>youtube comes from the wikipedia list, this is anexample of a usefull misspelling that ExLibris are unlikely to include
+The yotube=>youtube comes from the wikipedia list, this is an example of a usefull misspelling that ExLibris are unlikely to include
 
 ### How to run
     ./merge_primo_misspell.pl
@@ -41,7 +41,7 @@ Note the or in the alot statement, this allows you to define to spelling results
 
 I've added a sample into the custom_misspell.txt for a common misspelling of our Instituion name
 
-   swineburne swinburne
+    swineburne swinburne
 
 
 ### Extending to other versions of Primo
