@@ -26,7 +26,25 @@ This will now convert the contents of the wikipedia_misspell.txt into Primo miss
 Copy the newly prioducted $version/misspell_eng.txt to the Primo misspelling directory at ng/jaguar/home/profile/analysis/misspelling/
 
 
-### Extending
+### Adding new misspellings
+
+You can add new misspellings into the custom_misspell.txt file in the Primo format - such as
+
+    acheive achieve 
+    adress address 
+    alot a lot or allot 
+    alterior ulterior 
+    athiest atheist 
+
+Where the incorrect spelling is the first word followed by a space then the corret spelling
+Note the or in the alot statement, this allows you to define to spelling results
+
+I've added a sample into the custom_misspell.txt for a common misspelling of our Instituion name
+
+   swineburne swinburne
+
+
+### Extending to other versions of Primo
 
 If you want to create a misspellings file for a version of Primo not listed just create a subfolder with the version number ie 3.1.0,
 copy the current primo misspelling file (located at: ng/jaguar/home/profile/analysis/misspelling/misspell_eng.txt) to the version folder
@@ -34,17 +52,3 @@ copy the current primo misspelling file (located at: ng/jaguar/home/profile/anal
 Add/Edit the wikipedia_misspell.txt file if you wish
 
 Then run the ./merge_primo_misspell.pl and upload the new file
-
-
-### Adding new misspellings
-
-You can add new misspellings into the wikipedia_misspell.txt file in the Wikipedia format - such as
-
-    abondoned->abandoned
-    abondoning->abandoning
-    abondons->abandons
-    aborigene->aborigine
-    accesories->accessories
-
-
-where the incorrect spelling is the first word followed by a -> then the corret spelling
