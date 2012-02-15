@@ -7,7 +7,7 @@ This extendes the default Primo misspelling file, adds all the misspellings list
 
 ### Translations
 
-Currently we have misspelling files for English and Danish.  If you can contributte to existing files or new language files it would be gretaly appreciated
+Currently we have misspelling files for English and Danish.  If you can contribute to existing files or new language files it would be gretaly appreciated
 
 ### Why 
 
