@@ -15,6 +15,10 @@ Here is a screenshot of it in action
 
 The yotube=>youtube comes from the wikipedia list, this is an example of a useful misspelling that ExLibris are unlikely to include
 
+### Translations
+
+Currently we have misspelling files for English and Danish.  If you can contributte to existing files or new language files it would be gretaly appreciated
+
 ### Adding new misspellings
 
 You can add new misspellings into the custom_misspell.txt file in the Primo format - such as
