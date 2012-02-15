@@ -3,7 +3,11 @@ Extended misspellings files for ExLibris Primo
 ### What
 
 This extendes the default Primo misspelling file, adds all the misspellings listed in this Wikipead page: http://en.wikipedia.org/wiki/Wikipedia:Lists_of_common_misspellings/For_machines
-and provides a way to add your own custom misspellings
+, provides a way to add your own custom misspellings and adds extra language translations
+
+### Translations
+
+Currently we have misspelling files for English and Danish.  If you can contributte to existing files or new language files it would be gretaly appreciated
 
 ### Why 
 
@@ -14,10 +18,6 @@ Here is a screenshot of it in action
 ![Primo Yotube misspelling example](http://i.minus.com/ibf7h8VFi2cDkM.png)
 
 The yotube=>youtube comes from the wikipedia list, this is an example of a useful misspelling that ExLibris are unlikely to include
-
-### Translations
-
-Currently we have misspelling files for English and Danish.  If you can contributte to existing files or new language files it would be gretaly appreciated
 
 ### Adding new misspellings
 
