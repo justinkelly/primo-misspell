@@ -25,8 +25,8 @@ You can add new misspellings into the custom_misspell.txt file in the Primo form
     alterior ulterior 
     athiest atheist 
 
-Where the incorrect spelling is the first word followed by a space then the corret spelling
-Note the or in the alot statement, this allows you to define to spelling results
+Where the incorrect spelling is the first word followed by a space then the corret spelling.
+Note the *or* in the alot statement, this allows you to define multiple spelling results
 
 I've added a sample into the custom_misspell.txt for a common misspelling of our Instituion name
 
