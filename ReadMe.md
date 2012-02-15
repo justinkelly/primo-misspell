@@ -36,6 +36,7 @@ I've added a sample into the custom_misspell.txt for a common misspelling of our
 
     swineburne swinburne
 
+*Note: the or in the corrected spelling may not work as intended - currently still testing this - this was copied from the orginal primo misspell file.  Hopefully using this we can add multiple correct spellings*
 ### How to run
     ./merge_primo_misspell.pl
 
