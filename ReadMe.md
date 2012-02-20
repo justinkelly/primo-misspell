@@ -7,7 +7,7 @@ This extendes the default Primo misspelling file, adds all the misspellings list
 
 ### Translations
 
-Currently we have misspelling files for English and Danish.  If you can contributte to existing files or new language files it would be gretaly appreciated
+Currently we have misspelling files for English and Danish.  If you can contribute to existing files or new language files it would be gretaly appreciated
 
 ### Why 
 
@@ -36,6 +36,7 @@ I've added a sample into the custom_misspell.txt for a common misspelling of our
 
     swineburne swinburne
 
+*Note: the or in the corrected spelling may not work as intended - currently still testing this - this was copied from the orginal primo misspell file.  Hopefully using this we can add multiple correct spellings*
 ### How to run
     ./merge_primo_misspell.pl
 
