@@ -36,7 +36,7 @@ accademic academic
 accademy academy 
 acccused accused 
 accelleration acceleration 
-accension accession or ascension 
+accension accession 
 acceptence acceptance 
 acceptible acceptable 
 accesories accessories 
@@ -79,13 +79,13 @@ acheivment achievement
 acheivments achievements 
 achievment achievement 
 achievments achievements 
-achive achieve or archive 
-achived achieved or archived 
+achive achieve 
+achived achieved 
 achivement achievement 
 achivements achievements 
 acknowldeged acknowledged 
 acknowledgeing acknowledging 
-ackward awkward or backward 
+ackward awkward 
 acommodate accommodate 
 acomplish accomplish 
 acomplished accomplished 
@@ -117,7 +117,7 @@ addmission admission
 addopt adopt 
 addopted adopted 
 addoptive adoptive 
-addres address or adders 
+addres address 
 addresable addressable 
 addresed addressed 
 addresing addressing 
@@ -151,7 +151,7 @@ adresing addressing
 adress address 
 adressable addressable 
 adressed addressed 
-adressing addressing or dressing 
+adressing addressing 
 adventrous adventurous 
 advertisment advertisement 
 advertisments advertisements 
@@ -165,7 +165,7 @@ afficionado aficionado
 afficionados aficionados 
 affilate affiliate 
 affilliate affiliate 
-affort afford or effort 
+affort afford 
 aforememtioned aforementioned 
 againnst against 
 agains against 
@@ -179,7 +179,7 @@ aggresive aggressive
 agian again 
 agianst against 
 agin again 
-agina again or angina 
+agina again 
 aginst against 
 agravate aggravate 
 agre agree 
@@ -259,12 +259,12 @@ alternitives alternatives
 altho although 
 althought although 
 altough although 
-alusion allusion or illusion 
+alusion allusion 
 alwasy always 
 alwyas always 
 amalgomated amalgamated 
 amatuer amateur 
-amature armature or amateur 
+amature armature 
 amendmant amendment 
 Amercia America 
 amerliorate ameliorate 
@@ -322,21 +322,21 @@ anyother any other
 anytying anything 
 aparent apparent 
 aparment apartment 
-apenines apennines or Apennines 
+apenines apennines 
 aplication application 
 aplied applied 
 apolegetics apologetics 
-apon upon or apron 
+apon upon 
 apparant apparent 
 apparantly apparently 
 appart apart 
 appartment apartment 
 appartments apartments 
-appealling appealing or appalling 
+appealling appealing 
 appeareance appearance 
 appearence appearance 
 appearences appearances 
-appenines apennines or Apennines 
+appenines apennines 
 apperance appearance 
 apperances appearances 
 appereance appearance 
@@ -376,10 +376,10 @@ arbitary arbitrary
 archaelogical archaeological 
 archaelogists archaeologists 
 archaelogy archaeology 
-archaoelogy archeology or archaeology 
-archaology archeology or archaeology 
-archeaologist archeologist or archaeologist 
-archeaologists archeologists or archaeologists 
+archaoelogy archeology 
+archaology archeology 
+archeaologist archeologist 
+archeaologists archeologists 
 archetect architect 
 archetects architects 
 archetectural architectural 
@@ -469,7 +469,7 @@ atorney attorney
 atribute attribute 
 atributed attributed 
 atributes attributes 
-attaindre attainder or attained 
+attaindre attainder 
 attemp attempt 
 attemped attempted 
 attemt attempt 
@@ -532,7 +532,7 @@ banannas bananas
 bandwith bandwidth 
 bankrupcy bankruptcy 
 banruptcy bankruptcy 
-baout about or bout 
+baout about 
 basicaly basically 
 basicly basically 
 bcak back 
@@ -544,7 +544,7 @@ beaurocracy bureaucracy
 beaurocratic bureaucratic 
 beautyfull beautiful 
 becamae became 
-becames becomes or became 
+becames becomes 
 becasue because 
 beccause because 
 becomeing becoming 
@@ -554,7 +554,7 @@ becuase because
 bedore before 
 beeing being 
 befoer before 
-beggin begin or begging 
+beggin begin 
 begginer beginner 
 begginers beginners 
 beggining beginning 
@@ -562,7 +562,7 @@ begginings beginnings
 beggins begins 
 begining beginning 
 beginnig beginning 
-behavour behavior or behaviour 
+behavour behavior 
 beleagured beleaguered 
 beleif belief 
 beleive believe 
@@ -571,8 +571,8 @@ beleives believes
 beleiving believing 
 beligum belgium 
 belive believe 
-belived believed or beloved 
-belives believes or beliefs 
+belived believed 
+belives believes 
 belligerant belligerent 
 bellweather bellwether 
 bemusemnt bemusement 
@@ -599,7 +599,7 @@ blaim blame
 blaimed blamed 
 blessure blessing 
 Blitzkreig Blitzkrieg 
-boaut bout or boat, about 
+boaut bout 
 bodydbuilder bodybuilder 
 bombardement bombardment 
 bombarment bombardment 
@@ -630,17 +630,17 @@ Buddist Buddhist
 buisness business 
 buisnessman businessman 
 buoancy buoyancy 
-buring burying or burning, burin, during 
+buring burying 
 burried buried 
 busines business 
-busineses business or businesses 
+busineses business 
 busness business 
 bussiness business 
 caculater calculator 
 cacuses caucuses 
 cahracters characters 
 calaber caliber 
-calander calendar or calender, colander 
+calander calendar 
 calculater calculator 
 calculs calculus 
 calenders calendars 
@@ -665,7 +665,7 @@ cannnot cannot
 cannonical canonical 
 cannotation connotation 
 cannotations connotations 
-cant cannot or can not, can't 
+cant cannot 
 caost coast 
 caperbility capability 
 Capetown Cape Town 
@@ -675,15 +675,15 @@ captued captured
 capturd captured 
 carachter character 
 caracterized characterized 
-carcas carcass or Caracas 
+carcas carcass 
 carefull careful 
 careing caring 
 carismatic charismatic 
 Carmalite Carmelite 
 Carnagie Carnegie 
 Carnagie-Mellon Carnegie-Mellon 
-carnege carnage or Carnegie 
-carnige carnage or Carnegie 
+carnege carnage 
+carnige carnage 
 Carnigie Carnegie 
 Carnigie-Mellon Carnegie-Mellon 
 carniverous carnivorous 
@@ -710,7 +710,7 @@ casulaty casualty
 catagories categories 
 catagorized categorized 
 catagory category 
-Cataline Catiline or Catalina 
+Cataline Catiline 
 catapillar caterpillar 
 catapillars caterpillars 
 catapiller caterpillar 
@@ -740,13 +740,13 @@ cemetarey cemetery
 cemetaries cemeteries 
 cemetary cemetery 
 cencus census 
-censur censor or censure 
+censur censor 
 cententenial centennial 
 centruies centuries 
 centruy century 
 centuties centuries 
 centuty century 
-ceratin certain or keratin 
+ceratin certain 
 cerimonial ceremonial 
 cerimonies ceremonies 
 cerimonious ceremonious 
@@ -754,7 +754,7 @@ cerimony ceremony
 ceromony ceremony 
 certainity certainty 
 certian certain 
-cervial cervical or servile, serval 
+cervial cervical 
 chalenging challenging 
 challange challenge 
 challanged challenged 
@@ -770,7 +770,7 @@ charasmatic charismatic
 charaterized characterized 
 chariman chairman 
 charistics characteristics 
-chasr chaser or chase 
+chasr chaser 
 cheif chief 
 cheifs chiefs 
 chemcial chemical 
@@ -801,7 +801,7 @@ clasic classic
 clasical classical 
 clasically classically 
 cleareance clearance 
-clera clear or sclera 
+clera clear 
 clincial clinical 
 clinicaly clinically 
 cmo com 
@@ -823,7 +823,7 @@ collonies colonies
 collony colony 
 collosal colossal 
 colonizators colonizers 
-comander commander or commandeer 
+comander commander 
 comando commando 
 comandos commandos 
 comany company 
@@ -899,7 +899,7 @@ compensantion compensation
 competance competence 
 competant competent 
 competative competitive 
-competion competition or completion 
+competion competition 
 competitiion competition 
 competive competitive 
 competiveness competitiveness 
@@ -1042,7 +1042,7 @@ convertion conversion
 conviced convinced 
 convienient convenient 
 coordiantion coordination 
-coorperation cooperation or corporation 
+coorperation cooperation 
 coorperations corporations 
 copmetitors competitors 
 coputer computer 
@@ -1066,30 +1066,30 @@ corrisponding corresponding
 corrisponds corresponds 
 costitution constitution 
 coucil council 
-coudl could or cloud 
-councellor councillor or counselor, councilor 
-councellors councillors or counselors, councilors 
+coudl could 
+councellor councillor 
+councellors councillors 
 counries countries 
 countains contains 
 countires countries 
-countrie's countries or countries', country's 
-coururier courier or couturier 
-coverted converted or covered, coveted 
-cpoy coy or copy 
+countrie's countries 
+coururier courier 
+coverted converted 
+cpoy coy 
 creaeted created 
 creche crèche 
 creedence credence 
 critereon criterion 
 criterias criteria 
 criticists critics 
-critising criticising or criticizing 
+critising criticising 
 critisising criticising 
 critisism criticism 
 critisisms criticisms 
-critisize criticise or criticize 
-critisized criticised or criticized 
-critisizes criticises or criticizes 
-critisizing criticising or criticizing 
+critisize criticise 
+critisized criticised 
+critisizes criticises 
+critisizing criticising 
 critized criticized 
 critizing criticizing 
 crockodiles crocodiles 
@@ -1108,7 +1108,7 @@ curriculem curriculum
 cxan cyan 
 cyclinder cylinder 
 dacquiri daiquiri 
-dael deal or dial, dahl 
+dael deal 
 Dalmation Dalmatian 
 dalmation dalmatian 
 damenor demeanor 
@@ -1172,7 +1172,7 @@ deparments departments
 dependance dependence
 dependancy dependency 
 dependant dependent 
-deram dram or dream 
+deram dram 
 deriviated derived 
 derivitive derivative 
 derogitory derogatory 
@@ -1197,7 +1197,7 @@ desitned destined
 desktiop desktop 
 desorder disorder 
 desoriented disoriented 
-desparate desperate or disparate 
+desparate desperate 
 despict depict 
 despiration desperation 
 dessicated desiccated 
@@ -1236,8 +1236,8 @@ dicovers discovers
 dicovery discovery 
 dicussed discussed 
 didnt didn't 
-diea idea or die 
-dieing dying or dyeing 
+diea idea 
+dieing dying 
 dieties deities 
 diety deity 
 diferent different 
@@ -1322,7 +1322,7 @@ distrubution distribution
 distruction destruction 
 distructive destructive 
 ditributed distributed 
-diversed diverse or diverged 
+diversed diverse 
 divice device 
 divison division 
 divisons divisions 
@@ -1340,7 +1340,7 @@ dominent dominant
 dominiant dominant 
 donig doing 
 dosen't doesn't 
-doub doubt or daub 
+doub doubt 
 doulbe double 
 dowloads downloads 
 dramtic dramatic 
@@ -1375,14 +1375,14 @@ effeciently efficiently
 efficency efficiency 
 efficent efficient 
 efficently efficiently 
-efford effort or afford 
-effords efforts or affords 
+efford effort 
+effords efforts 
 effulence effluence 
-eigth eighth or eight 
+eigth eighth 
 eiter either 
 elction election 
-electic eclectic or electric 
-electon election or electron 
+electic eclectic 
+electon election 
 electrial electrical 
 electricly electrically 
 electricty electricity 
@@ -1412,10 +1412,10 @@ eminated emanated
 emision emission 
 emited emitted 
 emiting emitting 
-emition emission or emotion 
+emition emission 
 emmediately immediately 
-emmigrated emigrated or immigrated 
-emminent eminent or imminent 
+emmigrated emigrated 
+emminent eminent 
 emminently eminently 
 emmisaries emissaries 
 emmisarries emissaries 
@@ -1432,7 +1432,7 @@ emperical empirical
 emphaised emphasised 
 emphsis emphasis 
 emphysyma emphysema 
-empirial empirical or imperial 
+empirial empirical 
 emprisoned imprisoned 
 enameld enameled 
 enchancement enhancement 
@@ -1454,7 +1454,7 @@ engieneer engineer
 engieneers engineers 
 enlargment enlargement 
 enlargments enlargements 
-Enlish English or enlist 
+Enlish English 
 enourmous enormous 
 enourmously enormously 
 ensconsed ensconced 
@@ -1495,11 +1495,11 @@ equivelent equivalent
 equivilant equivalent 
 equivilent equivalent 
 equivlalent equivalent 
-erally orally or really 
+erally orally 
 eratic erratic 
 eratically erratically 
 eraticly erratically 
-erested arrested or erected 
+erested arrested 
 errupted erupted 
 esential essential 
 esitmated estimated 
@@ -1514,7 +1514,7 @@ essesital essential
 estabishes establishes 
 establising establishing 
 ethnocentricm ethnocentrism 
-ethose those or ethos 
+ethose those 
 Europian European 
 Europians Europeans 
 Eurpean European 
@@ -1613,7 +1613,7 @@ extention extension
 extentions extensions 
 extered exerted 
 extermist extremist 
-extint extinct or extant 
+extint extinct 
 extradiction extradition 
 extraterrestial extraterrestrial 
 extraterrestials extraterrestrials 
@@ -1623,9 +1623,9 @@ extremeophile extremophile
 extremly extremely 
 extrordinarily extraordinarily 
 extrordinary extraordinary 
-eyar year or eyas 
-eyars years or eyas 
-eyasr years or eyas 
+eyar year 
+eyars years 
+eyasr years 
 faciliate facilitate 
 faciliated facilitated 
 faciliates facilitates 
@@ -1652,8 +1652,8 @@ fianlly finally
 ficticious fictitious 
 fictious fictitious 
 fidn find 
-fiel feel or field, file, phial 
-fiels feels or fields, files, phials 
+fiel feel 
+fiels feels 
 fiercly fiercely 
 fightings fighting 
 filiament filament 
@@ -1662,11 +1662,11 @@ finacial financial
 finaly finally 
 financialy financially 
 firends friends 
-firts flirts or first 
+firts flirts 
 fisionable fissionable 
 flamable flammable 
 flawess flawless 
-fleed fled or freed 
+fleed fled 
 Flemmish Flemish 
 florescent fluorescent 
 flourescent fluorescent 
@@ -1678,7 +1678,7 @@ fluoroscent fluorescent
 follwoing following 
 folowing following 
 fomed formed 
-fomr from or form 
+fomr from 
 fonetic phonetic 
 fontrier fontier 
 foootball football 
@@ -1691,7 +1691,7 @@ foriegn foreign
 Formalhaut Fomalhaut 
 formallize formalize 
 formallized formalized 
-formaly formally or formerly 
+formaly formally 
 formelly formerly 
 formidible formidable 
 formost foremost 
@@ -1731,8 +1731,8 @@ funtion function
 furuther further 
 futher further 
 futhermore furthermore 
-futhroc futhark or futhorc 
-gae game or Gael, gale 
+futhroc futhark 
+gae game 
 galatic galactic 
 Galations Galatians 
 gallaxies galaxies 
@@ -1750,7 +1750,7 @@ gauarana guaraná
 gaurantee guarantee 
 gauranteed guaranteed 
 gaurantees guarantees 
-gaurd guard or gourd 
+gaurd guard 
 gaurentee guarantee 
 gaurenteed guaranteed 
 gaurentees guarantees 
@@ -1771,7 +1771,7 @@ gnawwed gnawed
 godess goddess 
 godesses goddesses 
 Godounov Godunov 
-gogin going or Gauguin 
+gogin going 
 goign going 
 gonig going 
 Gothenberg Gothenburg 
@@ -1802,8 +1802,8 @@ greif grief
 gridles griddles 
 gropu group 
 grwo grow 
-Guaduloupe Guadalupe or Guadeloupe 
-Guadulupe Guadalupe or Guadeloupe 
+Guaduloupe Guadalupe 
+Guadulupe Guadalupe 
 guage gauge 
 guarentee guarantee 
 guarenteed guaranteed 
@@ -1827,9 +1827,9 @@ habaeus habeas
 habeus habeas 
 Habsbourg Habsburg 
 haemorrage haemorrhage 
-haev have or heave 
+haev have 
 halarious hilarious 
-Hallowean Hallowe'en or Halloween 
+Hallowean Hallowe'en 
 halp help 
 hampster hamster 
 hapen happen 
@@ -1874,7 +1874,7 @@ helpfull helpful
 helpped helped 
 hemmorhage hemorrhage 
 hemorage hemorrhage 
-herad heard or Hera 
+herad heard 
 heridity heredity 
 heroe hero 
 heros heroes 
@@ -1914,26 +1914,26 @@ horrifing horrifying
 hosited hoisted 
 hospitible hospitable 
 hounour honour 
-housr hours or house 
+housr hours 
 howver however 
 hsitorians historians 
 hstory history 
-hten then or hen, the 
-htere there or here 
+hten then 
+htere there 
 htey they 
 htikn think 
 hting thing 
 htink think 
 htis this 
-humer humor or humour 
-humerous humorous or humerus 
+humer humor 
+humerous humorous 
 huminoid humanoid 
 humoural humoral 
 humurous humorous 
 husban husband 
 hvae have 
 hvaing having 
-hvea have or heave 
+hvea have 
 hwihc which 
 hwile while 
 hwole whole 
@@ -1956,7 +1956,7 @@ idealogy ideology
 identicial identical 
 identifers identifiers 
 ideosyncratic idiosyncratic 
-idesa ideas or ides 
+idesa ideas 
 idiosyncracy idiosyncrasy 
 Ihaca Ithaca 
 illegimacy illegitimacy 
@@ -1968,15 +1968,15 @@ ilness illness
 ilogical illogical 
 imagenary imaginary 
 imagin imagine 
-imaginery imaginary or imagery 
-imanent eminent or imminent 
+imaginery imaginary 
+imanent eminent 
 imcomplete incomplete 
 imediately immediately 
 imense immense 
-imigrant emigrant or immigrant 
-imigrated emigrated or immigrated 
-imigration emigration or immigration 
-iminent eminent or imminent, immanent 
+imigrant emigrant 
+imigrated emigrated 
+imigration emigration 
+iminent eminent 
 immediatley immediately 
 immediatly immediately 
 immidately immediately 
@@ -2093,7 +2093,7 @@ ingenius ingenious
 ingreediants ingredients 
 inhabitans inhabitants 
 inherantly inherently 
-inheritage heritage or inheritance 
+inheritage heritage 
 inheritence inheritance 
 inital initial 
 initally initially 
@@ -2117,7 +2117,7 @@ inseperable inseparable
 insistance insistence 
 insitution institution 
 insitutions institutions 
-inspite in spite or inspire 
+inspite in spite 
 instade instead 
 instatance instance 
 institue institute 
@@ -2130,15 +2130,15 @@ intelectual intellectual
 inteligence intelligence 
 inteligent intelligent 
 intenational international 
-intented intended or indented 
+intented intended 
 intepretation interpretation 
 intepretator interpretor 
 interational international 
-interbread interbreed or interbred 
+interbread interbreed 
 interchangable interchangeable 
 interchangably interchangeably 
 intercontinetal intercontinental 
-intered interred or interned 
+intered interred 
 interelated interrelated 
 interferance interference 
 interfereing interfering 
@@ -2167,7 +2167,7 @@ intrusted entrusted
 intutive intuitive 
 intutively intuitively 
 inudstry industry 
-inumerable enumerable or innumerable 
+inumerable enumerable 
 inventer inventor 
 invertibrates invertebrates 
 investingate investigate 
@@ -2225,8 +2225,8 @@ knwos knows
 konw know 
 konws knows 
 kwno know 
-labatory lavatory or laboratory 
-labled labelled or labeled 
+labatory lavatory 
+labled labelled 
 labratory laboratory 
 laguage language 
 laguages languages 
@@ -2236,14 +2236,14 @@ larrry larry
 las(s)oo lasso 
 lastr last 
 lattitude latitude 
-launchs launch or launches 
+launchs launch 
 launhed launched 
 lavae larvae 
 layed laid 
 lazer laser 
 lazyness laziness 
 leage league 
-leanr lean or learn, leaner 
+leanr lean 
 leathal lethal 
 lefted left 
 legitamate legitimate 
@@ -2266,7 +2266,7 @@ libell libel
 libguistic linguistic 
 libguistics linguistics 
 libitarianisn libertarianism 
-lible libel or liable 
+lible libel 
 lieing lying 
 liek like 
 liekd liked 
@@ -2281,9 +2281,9 @@ likelyhood likelihood
 linnaena linnaean 
 lippizaner lipizzaner 
 liquify liquefy 
-liscense license or licence 
-lisence license or licence 
-lisense license or licence 
+liscense license 
+lisence license 
+lisense license 
 listners listeners 
 litature literature 
 literaly literally 
@@ -2297,7 +2297,7 @@ loev love
 lonelyness loneliness 
 longitudonal longitudinal 
 lonley lonely 
-lonly lonely or only 
+lonly lonely 
 loosing losing 
 lotharingen lothringen 
 lsat last 
@@ -2305,7 +2305,7 @@ lukid likud
 lveo love 
 lvoe love 
 Lybia Libya 
-maching machine or marching, matching 
+maching machine 
 mackeral mackerel 
 magasine magazine 
 magincian magician 
@@ -2319,7 +2319,7 @@ maintenence maintenance
 maintinaing maintaining 
 maintioned mentioned 
 majoroty majority 
-maked marked or made 
+maked marked 
 makse makes 
 Malcom Malcolm 
 maltesian Maltese 
@@ -2333,13 +2333,13 @@ maneouvres manoeuvres
 maneouvring manoeuvring 
 manisfestations manifestations 
 manoeuverability maneuverability 
-manouver maneuver or manoeuvre 
-manouverability maneuverability or manoeuvrability, manoeuverability 
-manouverable maneuverable or manoeuvrable 
-manouvers maneuvers or manoeuvres 
+manouver maneuver 
+manouverability maneuverability 
+manouverable maneuverable 
+manouvers maneuvers 
 mantained maintained 
-manuever maneuver or manoeuvre 
-manuevers maneuvers or manoeuvres 
+manuever maneuver 
+manuevers maneuvers 
 manufacturedd manufactured 
 manufature manufacture 
 manufatured manufactured 
@@ -2370,7 +2370,7 @@ mathmaticians mathematicians
 mccarthyst mccarthyist 
 mchanics mechanics 
 meaninng meaning 
-mear wear or mere, mare 
+mear wear 
 mechandise merchandise 
 medacine medicine 
 medeival medieval 
@@ -2384,7 +2384,7 @@ melieux milieux
 membranaphone membranophone 
 memeber member 
 menally mentally 
-meranda veranda or Miranda 
+meranda veranda 
 mercentile mercantile 
 messanger messenger 
 messenging messaging 
@@ -2474,7 +2474,7 @@ montanous mountainous
 Montnana Montana 
 monts months 
 montypic monotypic 
-moreso more or more so 
+moreso more 
 morgage mortgage 
 Morisette Morissette 
 Morrisette Morissette 
@@ -2500,7 +2500,7 @@ munbers numbers
 muncipalities municipalities 
 muncipality municipality 
 munnicipality municipality 
-muscels mussels or muscles 
+muscels mussels 
 muscial musical 
 muscician musician 
 muscicians musicians 
@@ -2536,10 +2536,10 @@ negociations negotiations
 negotation negotiation 
 neice niece 
 neigborhood neighborhood 
-neigbour neighbour or neighbor 
+neigbour neighbour 
 neigbourhood neighbourhood 
-neigbouring neighbouring or neighboring 
-neigbours neighbours or neighbors 
+neigbouring neighbouring 
+neigbours neighbours 
 neolitic neolithic 
 nessasarily necessarily 
 nessecary necessary 
@@ -2646,7 +2646,7 @@ officaly officially
 officialy officially 
 offred offered 
 oftenly often 
-oging going or ogling 
+oging going 
 ok OK 
 omision omission 
 omited omitted 
@@ -2662,7 +2662,7 @@ omniverous omnivorous
 omniverously omnivorously 
 omre more 
 onomatopeia onomatopoeia 
-onot note or not 
+onot note 
 onyl only 
 openess openness 
 oponent opponent 
@@ -2690,13 +2690,13 @@ orded ordered
 organim organism 
 organistion organisation 
 organiztion organization 
-orgin origin or organ 
+orgin origin 
 orginal original 
 orginally originally 
 orginize organise 
 oridinarily ordinarily 
 origanaly originally 
-originall original or originally 
+originall original 
 originaly originally 
 originially originally 
 originnally originally 
@@ -2718,7 +2718,7 @@ oximoron oxymoron
 p0enis penis 
 paide paid 
 paitience patience 
-palce place or palace 
+palce place 
 paleolitic paleolithic 
 paliamentarian parliamentarian 
 Palistian Palestinian 
@@ -2791,7 +2791,7 @@ perenially perennially
 perfomance performance 
 perfomers performers 
 performence performance 
-performes performed or performs 
+performes performed 
 perhasp perhaps 
 perheaps perhaps 
 perhpas perhaps 
@@ -2812,7 +2812,7 @@ perserverance perseverance
 perseverence perseverance 
 persistance persistence 
 persistant persistent 
-personel personnel or personal 
+personel personnel 
 personell personnel 
 personnell personnel 
 persuded persuaded 
@@ -2907,7 +2907,7 @@ posessing possessing
 posession possession 
 posessions possessions 
 posion poison 
-positon position or positron 
+positon position 
 possable possible 
 possably possibly 
 posseses possesses 
@@ -3024,11 +3024,11 @@ probaly probably
 probelm problem 
 proccess process 
 proccessing processing 
-procede proceed or precede 
-proceded proceeded or preceded 
-procedes proceeds or precedes 
+procede proceed 
+proceded proceeded 
+procedes proceeds 
 procedger procedure 
-proceding proceeding or preceding 
+proceding proceeding 
 procedings proceedings 
 proceedure procedure 
 proces process 
@@ -3037,7 +3037,7 @@ proclaimation proclamation
 proclamed proclaimed 
 proclaming proclaiming 
 proclomation proclamation 
-profesion profusion or profession 
+profesion profusion 
 profesor professor 
 professer professor 
 proffesed professed 
@@ -3047,14 +3047,14 @@ proffesor professor
 profilic prolific 
 progessed progressed 
 programable programmable 
-progrom pogrom or program 
-progroms pogroms or programs 
+progrom pogrom 
+progroms pogroms 
 prohabition prohibition 
 prologomena prolegomena 
 prominance prominence 
 prominant prominent 
 prominantly prominently 
-prominately prominently or predominately 
+prominately prominently 
 promiscous promiscuous 
 promotted promoted 
 pronomial pronominal 
@@ -3132,7 +3132,7 @@ pususading persuading
 puting putting 
 pwoer power 
 pyscic psychic 
-qtuie quite or quiet 
+qtuie quite 
 quantaty quantity 
 quantitiy quantity 
 quarantaine quarantine 
@@ -3142,7 +3142,7 @@ quicklyu quickly
 quinessential quintessential 
 quitted quit 
 quizes quizzes 
-qutie quite or quiet 
+qutie quite 
 rabinnical rabbinical 
 racaus raucous 
 radiactive radioactive 
@@ -3280,7 +3280,7 @@ religous religious
 religously religiously 
 relinqushment relinquishment 
 relitavely relatively 
-relized realised or realized 
+relized realised 
 relpacement replacement 
 remaing remaining 
 remeber remember 
@@ -3304,7 +3304,7 @@ rennovation renovation
 rentors renters 
 reoccurrence recurrence 
 reorganision reorganisation 
-repatition repetition or repartition 
+repatition repetition 
 repblic republic 
 repblican republican 
 repblicans republicans 
@@ -3382,7 +3382,7 @@ restauraunt restaurant
 resteraunt restaurant 
 resteraunts restaurants 
 resticted restricted 
-restraunt restraint or restaurant 
+restraunt restraint 
 resturant restaurant 
 resturants restaurants 
 resturaunt restaurant 
@@ -3405,7 +3405,7 @@ rhymme rhyme
 rhythem rhythm 
 rhythim rhythm 
 rhytmic rhythmic 
-rigeur rigueur or rigour, rigor 
+rigeur rigueur 
 rigourous rigorous 
 rininging ringing 
 rised rose 
@@ -3439,7 +3439,7 @@ Sanhedrim Sanhedrin
 santioned sanctioned 
 sargant sergeant 
 sargeant sergeant 
-sasy says or sassy 
+sasy says 
 satelite satellite 
 satelites satellites 
 Saterday Saturday 
@@ -3459,7 +3459,7 @@ scaricity scarcity
 scavanged scavenged 
 schedual schedule 
 scholarhip scholarship 
-scholarstic scholastic or scholarly 
+scholarstic scholastic 
 scientfic scientific 
 scientifc scientific 
 scientis scientist 
@@ -3473,9 +3473,9 @@ scuptures sculptures
 seach search 
 seached searched 
 seaches searches 
-secceeded seceded or succeeded 
-seceed succeed or secede 
-seceeded succeeded or seceded 
+secceeded seceded 
+seceed succeed 
+seceeded succeeded 
 secratary secretary 
 secretery secretary 
 sedereal sidereal 
@@ -3487,7 +3487,7 @@ seing seeing
 seinor senior 
 seldomly seldom 
 senarios scenarios 
-sence sense or since 
+sence sense 
 senstive sensitive 
 sensure censure 
 sentance sentence 
@@ -3500,8 +3500,8 @@ seperation separation
 seperatism separatism 
 seperatist separatist 
 sepina subpoena 
-sepulchure sepulchre or sepulcher 
-sepulcre sepulchre or sepulcher 
+sepulchure sepulchre 
+sepulcre sepulchre 
 sergent sergeant 
 settelement settlement 
 settlment settlement 
@@ -3512,8 +3512,8 @@ sevice service
 shadasloo shadaloo 
 shaddow shadow 
 shadoloo shadaloo 
-shamen shaman or shamans 
-sheat sheath or sheet, cheat 
+shamen shaman 
+sheat sheath 
 sheild shield 
 sherif sheriff 
 shineing shining 
@@ -3523,15 +3523,15 @@ shopkeeepers shopkeepers
 shorly shortly 
 shortwhile short while 
 shoudl should 
-shoudln should or shouldn't 
+shoudln should 
 shouldnt shouldn't 
 shreak shriek 
 shrinked shrunk 
 sicne since 
 sideral sidereal 
 sieze seize 
-siezed seized or sized 
-siezing seizing or sizing 
+siezed seized 
+siezing seizing 
 siezure seizure 
 siezures seizures 
 siginificant significant 
@@ -3556,7 +3556,7 @@ simultanously simultaneously
 sincerley sincerely 
 sincerly sincerely 
 singsog singsong 
-sinse sines or since 
+sinse sines 
 Sionist Zionist 
 Sionists Zionists 
 Sixtin Sistine 
@@ -3589,10 +3589,10 @@ sophmore sophomore
 sorceror sorcerer 
 sorrounding surrounding 
 sotry story 
-sotyr satyr or story 
+sotyr satyr 
 soudn sound 
 soudns sounds 
-sould could or should, sold, soul 
+sould could 
 sountrack soundtrack 
 sourth south 
 sourthern southern 
@@ -3606,13 +3606,13 @@ soverignty sovereignty
 spainish Spanish 
 speach speech 
 specfic specific 
-speciallized specialised or specialized 
-specif specific or specify 
+speciallized specialised 
+specif specific 
 specifiying specifying 
 speciman specimen 
 spectauclar spectacular 
 spectaulars spectaculars 
-spects aspects or expects 
+spects aspects 
 spectum spectrum 
 speices species 
 spendour splendour 
@@ -3660,7 +3660,7 @@ stpo stop
 stradegies strategies 
 stradegy strategy 
 stragedy strategy 
-strat start or strata 
+strat start 
 stratagically strategically 
 streemlining streamlining 
 stregth strength 
@@ -3676,7 +3676,7 @@ strenous strenuous
 strictist strictest 
 strikely strikingly 
 strnad strand 
-stroy story or destroy 
+stroy story 
 structual structural 
 stubborness stubbornness 
 stucture structure 
@@ -3778,7 +3778,7 @@ suprized surprised
 suprizing surprising 
 suprizingly surprisingly 
 surfce surface 
-surley surly or surely 
+surley surly 
 suround surround 
 surounded surrounded 
 surounding surrounding 
@@ -3791,7 +3791,7 @@ surprize surprise
 surprized surprised 
 surprizing surprising 
 surprizingly surprisingly 
-surrended surrounded or surrendered 
+surrended surrounded 
 surrepetitious surreptitious 
 surrepetitiously surreptitiously 
 surreptious surreptitious 
@@ -3879,14 +3879,14 @@ territoy territory
 terroist terrorist 
 testiclular testicular 
 tghe the 
-thast that or that's 
+thast that 
 theather theater 
 theese these 
 theif thief 
 theives thieves 
 themselfs themselves 
 themslves themselves 
-ther there or their, the 
+ther there 
 therafter thereafter 
 therby thereby 
 theri their 
@@ -3898,7 +3898,7 @@ thign thing
 thigns things 
 thigsn things 
 thikn think 
-thikning thinking or thickening 
+thikning thinking 
 thikns thinks 
 thiunk think 
 thn then 
@@ -3914,18 +3914,18 @@ threshhold threshold
 thrid third 
 throrough thorough 
 throughly thoroughly 
-throught thought or through, throughout 
+throught thought 
 througout throughout 
 thru through 
 thsi this 
 thsoe those 
 thta that 
 thyat that 
-tiem time or Tim 
+tiem time 
 tihkn think 
 tihs this 
 timne time 
-tiome time or tome 
+tiome time 
 tje the 
 tjhe the 
 tjpanishad upanishad 
@@ -3952,7 +3952,7 @@ torpedos torpedoes
 tothe to the 
 toubles troubles 
 tounge tongue 
-tourch torch or touch 
+tourch torch 
 towords towards 
 towrad toward 
 tradionally traditionally 
@@ -3970,7 +3970,7 @@ tranformed transformed
 transcendance transcendence 
 transcendant transcendent 
 transcendentational transcendental 
-transcripting transcribing or transcription 
+transcripting transcribing 
 transending transcending 
 transesxuals transsexuals 
 transfered transferred 
@@ -3988,10 +3988,10 @@ triguered triggered
 triology trilogy 
 troling trolling 
 troup troupe 
-troups troupes or troops 
+troups troupes 
 truely truly 
 trustworthyness trustworthiness 
-turnk turnkey or trunk 
+turnk turnkey 
 Tuscon Tucson 
 tust trust 
 twelth twelfth 
@@ -4059,7 +4059,7 @@ univesities universities
 univesity university 
 unkown unknown 
 unlikey unlikely 
-unmanouverable unmaneuverable or unmanoeuvrable 
+unmanouverable unmaneuverable 
 unmistakeably unmistakably 
 unneccesarily unnecessarily 
 unneccesary unnecessary 
@@ -4077,7 +4077,7 @@ unprecidented unprecedented
 unrepentent unrepentant 
 unrepetant unrepentant 
 unrepetent unrepentant 
-unsed used or unused, unsaid 
+unsed used 
 unsubstanciated unsubstantiated 
 unsuccesful unsuccessful 
 unsuccesfully unsuccessfully 
@@ -4150,13 +4150,13 @@ versitilaty versatility
 versitlity versatility 
 vetween between 
 veyr very 
-vigeur vigueur or vigour, vigor 
+vigeur vigueur 
 vigilence vigilance 
 vigourous vigorous 
 villian villain 
 villification vilification 
 villify vilify 
-villin villi or villain, villein 
+villin villi 
 vincinity vicinity 
 violentce violence 
 virtualy virtually 
@@ -4198,7 +4198,7 @@ wayword wayward
 weaponary weaponry 
 weas was 
 wehn when 
-weild wield or wild 
+weild wield 
 weilded wielded 
 Wendesday Wednesday 
 wendsay Wednesday 
@@ -4216,10 +4216,10 @@ whith with
 whlch which 
 whn when 
 wholey wholly 
-wholy wholly or holy 
+wholy wholly 
 whta what 
 whther whether 
-wich which or witch 
+wich which 
 widesread widespread 
 wief wife 
 wierd weird
@@ -4230,7 +4230,7 @@ wille will
 willingless willingness 
 willk will 
 wirting writing 
-withdrawl withdrawal or withdraw 
+withdrawl withdrawal 
 witheld withheld 
 withh with 
 withing within 
@@ -4269,7 +4269,7 @@ yearm year
 yeasr years 
 yeild yield 
 yeilding yielding 
-Yementite Yemenite or Yemeni 
+Yementite Yemenite 
 yera year 
 yeras years 
 yersa years 

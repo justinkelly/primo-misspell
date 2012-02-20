@@ -61,9 +61,9 @@ foreach $line (<LOGFILE>) {
 	#Clean up the data from the wiki.txt - change -> to spaces and , to or and append to new file
 	$line = trim($line);
 	$line =~ s/\-\>/ /;
-    #nto include anyting after a comma
-	@line_clean = split $line /\,/;
-    $line = $line_clean[0];
+	#nto include anyting after a comma
+	@line_clean = split /\,/ , $line ;
+        $line = $line_clean[0];
 
 	#check if wiki misspelling in oring primo file - if it is skip
 	@wiki_misspell = split / / ,$line;
